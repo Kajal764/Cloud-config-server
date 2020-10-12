@@ -7,8 +7,3 @@ eureka:
   instance:
     localhost
     
- microservice:
-  user-service:
-    endpoints:
-      endpoint:
-        uri: http://user-service/fundoo/user/id/
